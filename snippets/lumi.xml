@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- LumiDroid additions -->
+  <project path="manifest" name="LumiProject/manifest" remote="lumi" />
+  <project path="vendor/lumidroid" name="LumiProject/vendor_lumi" remote="lumi" />
+</manifest>
